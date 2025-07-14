@@ -1,5 +1,5 @@
 # StudentmanagementSystem_jpa
-Java Maven PostgreSQL JDBC
+Java Hibernatejpa:
 
 The Student Management System is a console-based application built using hibernat jpae, JDBC, and PostgreSQL. It allows users to perform CRUD (Create, Read, Update, Delete) operations on Student records stored in a PostgreSQL database. The application is menu-driven, providing a simple and intuitive interface for managing Student data.
 
