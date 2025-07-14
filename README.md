@@ -48,7 +48,7 @@ Java Development Kit (JDK) 17 or higher.
 Apache Maven 3.8.6 or higher.
 PostgreSQL 15 or higher.
 create PostgreSQL database with the following table:
-CREATE TABLE studentsdetails1 (
+CREATE TABLE studentsdetails2(
     id SERIAL PRIMARY KEY,
     firstName varchar (25),
     lastName varchar(25),
@@ -64,4 +64,13 @@ Team Member:
 Name:Gaurav Hingole
 Email:gavravhingole@gmail.com
 GitHub:Gaurav_Hingole
+Name:Rupesh Bane
+Email:banerupesh716@gmail.com
+GitHub:Banerupesh1234
+Name:Pankaj Khillare
+Email:khillarepankaj436@gmail.com
+GitHub:Khillarepankaj01
 Enjoy using the Student Management System! 🚀
+<img width="449" height="154" alt="image" src="https://github.com/user-attachments/assets/4e3304d8-341d-4e88-a9a8-428c391a43be" />
+
+
