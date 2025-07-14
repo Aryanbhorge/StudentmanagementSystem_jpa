@@ -50,9 +50,9 @@ PostgreSQL 15 or higher.
 create PostgreSQL database with the following table:
 CREATE TABLE studentsdetails1 (
     id SERIAL PRIMARY KEY,
-    Rollno int NOT NULL,
-    age INT NOT NULL,
-    ,marks int not null
+    firstName varchar (25),
+    lastName varchar(25),
+    age INT NOT NULL   
 );
 Contact
 For any questions or feedback, feel free to reach out:
